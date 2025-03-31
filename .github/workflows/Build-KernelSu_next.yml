@@ -1,4 +1,4 @@
-name: New KernelSU Next SUSFS Ace3V
+name: KernelSu Next & Susfs for Oneplus Ace3
 on:
   workflow_dispatch:
     inputs:
